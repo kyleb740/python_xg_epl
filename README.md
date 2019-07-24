@@ -9,3 +9,9 @@ To accomplish this I found a csv file on 538 with game data for the last 3 seaso
 To visualize the data I used bar graphs and scatter plots.  
 
 Dependencies used were SQLite, pandas, numpy, and matplotlib.
+
+Steps to run file:
+
+Pull repo from https://github.com/kyleb740/python_xg_epl
+Open Jupyter Notebooks
+Run "xgEpl.ipynb"
