@@ -12,6 +12,6 @@ Dependencies used were SQLite, pandas, numpy, and matplotlib.
 
 Steps to run file:
 
-Pull repo from https://github.com/kyleb740/python_xg_epl
-Open Jupyter Notebooks
-Run "xgEpl.ipynb"
+1. Pull repo from https://github.com/kyleb740/python_xg_epl
+2. Open Jupyter Notebooks
+3. Run "xgEpl.ipynb"
